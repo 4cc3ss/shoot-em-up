@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEREAAAAAABAREQAAAAAAEREBAAAAABAREQEAAAAAEBERAAAAABAREQEBAAAAEBERAAAAAAAQEREBAQAAAAAQEREAAAAAABAREQEAAAAAABERAQAAAAAAEBERAAAAAAAAEREAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rocket"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERECAAAAAAAREQIAAAAAABERAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bullet"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
